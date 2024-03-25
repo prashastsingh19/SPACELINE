@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>spaceline</title>
+    <style>
+        body {
+            font-family: Cooper Black, sans-serif;
+            background-color: #18d4d4;
+            color: #000000;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #000000;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #8400ff;
+            margin: 0;
+        }
+
+        nav {
+            text-align: center;
+            padding: 10px 0;
+            background-color: #8f8a8a;
+        }
+
+        nav a {
+            color: #FFFFFF;
+            margin: 0 10px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+
+        .blog-post {
+            margin-bottom: 40px;
+        }
+
+        .blog-post h2 {
+            color: #000000;
+        }
+
+        .blog-post p {
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #8d8787;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1>SPACELINE</h1>
+        <p><a href="https://1spaceline.wixsite.com/spaceline">This ain't the actual site!</a></p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container" id="about">
+        <h2>About Me:</h2>
+        <p>Merly a science student who is trying to learn and study Astrophysics. With the help of this site, I am sharing some of my knowledge and stuff..</p>
+    </div>
+
+    <div class="container" id="blog">
+        <h2>Blog:</h2>
+        <div class="blog-post">
+            <h3>What if we live in a Multiverse?</h3>
+            <p>Now this is a question, I have always wondered about? At early stage of my learning, I never got any answer for this concept, so I started researching, and this is what I concluded.
+
+                The Universe we live in may not be the only one out there. In fact, our Universe could be just one of an infinite number of Universes making up a Multiverse. Well, there are some reasons that will make you think about it.
+                
+                
+                Infinite Universe, Space-Time may stretch out to infinity. If so, then everything in our Universe is bound to repeat at some point, creating a patchwork quilt of infinite Universes.
+                
+                Bubble Universes, Eternal inflation theory suggest that some pockets of space stop inflating, while other regions continue to inflate, thus giving rise to many isolated Bubble Universes.
+                
+                Parallel Universes, according to this theory our Universe is one of potentially numerous 'slabs' floating in a higher-dimensional space.
+                
+                Daughter Universe, your every choice creates a new Universe, this theory arises from Quantum Mechanics. For example, when you toss a coin, Universe splits in two different daughter universes, which will continue with two different realties.
+                
+                Mathematical Universe, some Physicists believe that mathematics is not a only tool for describing the Universe but mathematics itself is the fundamental reality, and our observations of the Universe are just imperfect perceptions of its true mathematical nature.
+                
+                
+                This would be incredible, if we could be living the Multiverse, isn't it?</p>
+        </div>
+        <!--VDSF-->
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact:</h2>
+        <p>Got something to say? I'd love to hear from you! Drop me a line at prashastsingh2005@gmail.com.</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Prashast Singh.</p>
+    </footer>
+
+</body>
+
+</html>
